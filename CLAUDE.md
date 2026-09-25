@@ -9,7 +9,7 @@ Context per a Claude (Claude Code a VS Code). Llegeix-lo abans de fer canvis. Aq
 - **Activitats**:
   1. **Classes** cada divendres de 17:30 a 18:30 al Casal Cívic de Sant Pere (Passeig 22 de Juliol, 337, 08221 Terrassa, al costat de Terrassa Nord, Renfe R4 / FGC S1). 20 €/mes + 10 €/any de quota de l'Associació Veïnal de Sant Pere. Primera classe gratis. Grup mixt (de 9 a més de 70 anys).
   2. **This is for Terrassa**: competició anual de breaking crew vs crew, amb batalles de rap (gallos) i graffiti. Vol. 6: dissabte 24/10/2026. Crews de mínim 5 membres; batalles per temps (8/10/12/15 min); quadre de 16 crews; inscripció 5 €/persona fins al 16/10; 1r premi viatge de 500 € a una competició internacional, 2n premi val Snipes 250 €. Jutges: bboy **Jorge** (Special K, València, @jorgesalasspecialk), bboy Cibils (Barcelona, @cibilskills), bboy LilDani (Màlaga, @danielgonzalezmlgz). DJs Kasuo (@kasuo_one1) i Kenji (@wrappyken). Speaker Gumi (@gumilegacy). Cartell de Javi Trad (@javitrad). Entrada gratuïta per al públic.
-  3. **Shows i tallers**: show de 10-15 min, show + taller de 45-75 min, tallers per a escoles. A partir de 200 €. Han actuat a les festes majors de Sant Pere i amb la Fundació SomRiures.
+  3. **Shows i tallers**: show de 10-15 min, show + taller de 45-75 min, tallers per a escoles. Preu segons pressupost (no es publica cap preu a la web). Han actuat a les festes majors de Sant Pere i amb la Fundació SomRiures.
 - **Suport**: Ajuntament de Terrassa i Associació Veïnal de Sant Pere.
 - **Canals**: Instagram @terrassabreaking (canal principal), YouTube @terrassabreaking5868, Facebook /terrassabreaking. Web antiga (a substituir): terrassabreaking.wordpress.com.
 
