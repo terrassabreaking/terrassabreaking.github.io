@@ -125,7 +125,8 @@ Mentre `G-XXXXXXXXXX` no es canviï, la web no carrega Google Analytics ni mostr
 ## 8. Imatges, logos i vídeos
 
 - **Imatges** a `assets/img/`, en **WebP o JPG**, com a màxim 1600 px d'amplada i idealment **menys de 300 KB**. Noms en minúscules i sense espais (`classe-divendres-01.webp`).
-- **Logos** preferiblement en **SVG** (si no, PNG amb fons transparent): `logo-color.svg` i `logo-blanc.svg`.
+- **Logos**: `logo-blanc.webp` (capçalera), `logo-color.webp` (portada i premsa), `logo-color.png` (JSON-LD) i `og-terrassa-breaking.jpg` (Open Graph, 1200×630). Els PNG originals en alta resolució es descarreguen des de la pàgina de Premsa.
+- **Fotos**: per a cada foto, afegiu-ne també una versió de 800 px amb el sufix `-800.webp` i feu-la servir al `srcset`.
 - **Vídeos: no els pugeu al repositori** (GitHub no admet fitxers de més de 100 MB i la web aniria lenta). Pugeu-los a YouTube i incrusteu-los amb `youtube-nocookie.com` perquè no posin galetes sense permís.
 - **Menors**: publiqueu fotos o vídeos d'alumnes només amb l'autorització d'imatge signada per les famílies.
 

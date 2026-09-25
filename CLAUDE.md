@@ -4,7 +4,7 @@ Context per a Claude (Claude Code a VS Code). Llegeix-lo abans de fer canvis. Aq
 
 ## Qui som
 
-- **Terrassa Breaking**: associació sense ànim de lucre de breaking i cultura hip hop de Terrassa (Barcelona). 10-15 membres actius.
+- **Terrassa Breaking**: associació sense ànim de lucre de breaking i cultura hip hop de Terrassa (Barcelona). Fundada el 2016 per un grup de joves de Terrassa. 10-15 membres actius.
 - **Persones**: Néstor (president, periodista; gestiona comunicació i Instagram), bboy Jan i bboy Toolz (professors de les classes; Toolz és programador), Manu (enginyer de telecomunicacions; possible cara del TikTok).
 - **Activitats**:
   1. **Classes** cada divendres de 17:30 a 18:30 al Casal Cívic de Sant Pere (Passeig 22 de Juliol, 337, 08221 Terrassa, al costat de Terrassa Nord, Renfe R4 / FGC S1). 20 €/mes + 10 €/any de quota de l'Associació Veïnal de Sant Pere. Primera classe gratis. Grup mixt (de 9 a més de 70 anys).
@@ -58,8 +58,8 @@ Basat en el cartell de This is for Terrassa Vol. 6.
 ## Tasques pendents
 
 - [ ] Substituir tots els `TODO_…` (vegeu README) i l'ID `G-XXXXXXXXXX`.
-- [ ] Substituir el text "Terrassa Breaking" de la capçalera pel **logo blanc** (`assets/img/logo-blanc.svg`) i fer servir el **logo en color** on calgui (portada, pàgina de premsa, Open Graph). Afegir `logo` a l'objecte JSON-LD `NGO`.
-- [ ] Afegir **fotos** optimitzades (WebP, ≤1600 px, <300 KB) amb `alt` en els tres idiomes. Llocs suggerits: portada (foto d'ambient de competició), Classes (foto de classe, només amb autorització d'imatge), Shows (foto d'actuació en una festa major), This is for Terrassa (fotos d'edicions anteriors), Premsa (kit descarregable).
+- [x] Logo blanc a la capçalera (`assets/img/logo-blanc.webp`), logo en color a la portada i a Premsa (`logo-color.webp`), Open Graph amb logo (`og-terrassa-breaking.jpg`, excepte a This is for Terrassa, que fa servir el cartell) i `logo` (`logo-color.png`) al JSON-LD. Els PNG originals (`logo-azul.png`, `logo-blanco.png`, `logo-this-is-for-terrassa.png`) són els que es descarreguen des de Premsa.
+- [ ] Fotos: fetes a la portada, This is for Terrassa (galeria i crews guanyadors) i Shows i tallers. Cada foto té una versió `-800.webp` per al `srcset`. Pendent: foto de classe (només amb autorització d'imatge) i una foto del Vol. 4 en més resolució (`ganadores-vol-4.webp` fa només 160 × 200 px).
 - [ ] Incrustar **vídeos de YouTube** (`youtube-nocookie.com`, amb `loading="lazy"`): recap a la portada o a This is for Terrassa; un show breu a Shows i tallers.
 - [ ] Crear `docs/dossier-shows.pdf` i enllaçar-lo a Shows i tallers (tres idiomes).
 - [ ] Migrar els documents de transparència (actes, comptes, estatuts, socis) a `docs/` en PDF i canviar els enllaços de l'apartat Transparència (ara apunten a la web antiga de WordPress).

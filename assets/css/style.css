@@ -36,7 +36,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var
 .site-header{background:var(--brown);color:var(--cream);position:sticky;top:0;z-index:50}
 .site-header .container{display:flex;align-items:center;gap:18px;min-height:64px}
 .brand{font:400 20px/1 var(--display);text-decoration:none;color:var(--peach);letter-spacing:.01em;white-space:nowrap}
-.brand img{height:40px;width:auto}
+.brand img{height:48px;width:auto;display:block}
 .nav-toggle{display:none;margin-left:auto;background:none;border:2px solid var(--peach);color:var(--peach);font:700 17px var(--cond);padding:4px 12px;cursor:pointer}
 .site-nav{display:flex;align-items:center;gap:18px;margin-left:auto}
 .site-nav ul{list-style:none;display:flex;gap:16px;flex-wrap:wrap}
@@ -80,6 +80,24 @@ p+p{margin-top:12px}
 .block .more{display:inline-block;margin-top:12px;font-weight:600}
 
 .poster{border:3px solid var(--brown);box-shadow:8px 8px 0 var(--brown);background:var(--cream)}
+
+/* ---------- Logos i fotos ---------- */
+.logo-title img{width:100%;max-width:520px}
+.logo-title.tift img{max-width:440px}
+.photo{border:3px solid var(--brown);box-shadow:8px 8px 0 var(--brown);background:var(--cream)}
+.photo img{width:100%}
+.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.gallery figure{border:3px solid var(--brown);box-shadow:6px 6px 0 var(--brown);background:var(--cream)}
+.gallery img{width:100%;aspect-ratio:4/5;object-fit:cover}
+.gallery.square img{aspect-ratio:1}
+.gallery.places{grid-template-columns:repeat(2,1fr)}
+.gallery.places img{aspect-ratio:4/3}
+.gallery.winners{margin-top:14px}
+.gallery.winners img{aspect-ratio:4/3;object-fit:contain;background:var(--brown)}
+.gallery figcaption{font:700 18px var(--cond);padding:6px 12px;border-top:3px solid var(--brown)}
+.press-logo{width:100%;max-width:420px;margin-top:22px}
+@media (max-width:820px){.gallery{grid-template-columns:repeat(2,1fr);gap:18px}}
+@media (max-width:520px){.gallery.square,.gallery.winners,.gallery.places{grid-template-columns:1fr}}
 
 /* ---------- Botons ---------- */
 .actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:26px}
