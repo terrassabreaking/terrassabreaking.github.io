@@ -2,8 +2,8 @@
    1) Menú del mòbil
    2) Bàner de galetes + Google Analytics 4 (només es carrega si la persona accepta) */
 
-// ===== Posa aquí l'ID de mesura de Google Analytics 4 (G-XXXXXXXXXX) =====
-const GA_ID = "G-XXXXXXXXXX";
+// ===== Posa aquí l'ID de mesura de Google Analytics 4 (G-RCLSJPZ44C) =====
+const GA_ID = "G-RCLSJPZ44C";
 // =========================================================================
 
 // 1) Menú del mòbil
@@ -20,7 +20,7 @@ const GA_ID = "G-XXXXXXXXXX";
 // 2) Galetes i Google Analytics
 (function () {
   const KEY = "tb-consent";
-  const configured = /^G-[A-Z0-9]+$/.test(GA_ID) && GA_ID !== "G-XXXXXXXXXX";
+  const configured = /^G-[A-Z0-9]+$/.test(GA_ID) && GA_ID !== "G-RCLSJPZ44C";
   const lang = (document.documentElement.lang || "ca").slice(0, 2);
 
   const TXT = {
