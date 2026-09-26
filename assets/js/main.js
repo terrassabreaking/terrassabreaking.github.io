@@ -20,7 +20,7 @@ const GA_ID = "G-RCLSJPZ44C";
 // 2) Galetes i Google Analytics
 (function () {
   const KEY = "tb-consent";
-  const configured = /^G-[A-Z0-9]+$/.test(GA_ID) && GA_ID !== "G-RCLSJPZ44C";
+  const configured = /^G-[A-Z0-9]+$/.test(GA_ID) && !/^G-X+$/.test(GA_ID);
   const lang = (document.documentElement.lang || "ca").slice(0, 2);
 
   const TXT = {
