@@ -4,8 +4,8 @@ Context per a Claude (Claude Code a VS Code). Llegeix-lo abans de fer canvis. Aq
 
 ## Qui som
 
-- **Terrassa Breaking**: associació sense ànim de lucre de breaking i cultura hip hop de Terrassa (Barcelona). Fundada el 2016 per un grup de joves de Terrassa. 10-15 membres actius.
-- **Persones**: Néstor (president, periodista; gestiona comunicació i Instagram), bboy Jan i bboy Toolz (professors de les classes; Toolz és programador), Manu (enginyer de telecomunicacions; possible cara del TikTok).
+- **Terrassa Breaking**: associació sense ànim de lucre de breaking i cultura hip hop de Terrassa (Barcelona). Fundada el 2016 per un grup de joves de Terrassa. El 2018 va organitzar la 18a edició de La Descomunal (trobada del BaumannLab), la llavor de This is for Terrassa. 10-15 membres actius.
+- **Persones**: Néstor (president, periodista; gestiona comunicació i Instagram), bboy Jan i bboy Toolz (Toolz és programador), Manu (enginyer de telecomunicacions; possible cara del TikTok). Les classes les fan el Néstor, bboy Jan i bboy Toolz.
 - **Activitats**:
   1. **Classes** cada divendres de 17:30 a 18:30 al Casal Cívic de Sant Pere (Passeig 22 de Juliol, 337, 08221 Terrassa, al costat de Terrassa Nord, Renfe R4 / FGC S1). 20 €/mes + 10 €/any de quota de l'Associació Veïnal de Sant Pere. Primera classe gratis. Grup mixt (de 9 a més de 70 anys).
   2. **This is for Terrassa**: competició anual de breaking crew vs crew, amb batalles de rap (gallos) i graffiti. Vol. 6: dissabte 24/10/2026. Crews de mínim 5 membres; batalles per temps (8/10/12/15 min); quadre de 16 crews; inscripció 5 €/persona fins al 16/10; 1r premi viatge de 500 € a una competició internacional, 2n premi val Snipes 250 €. Jutges: bboy **Jorge** (Special K, València, @jorgesalasspecialk), bboy Cibils (Barcelona, @cibilskills), bboy LilDani (Màlaga, @danielgonzalezmlgz). DJs Kasuo (@kasuo_one1) i Kenji (@wrappyken). Speaker Gumi (@gumilegacy). Cartell de Javi Trad (@javitrad). Entrada gratuïta per al públic.
