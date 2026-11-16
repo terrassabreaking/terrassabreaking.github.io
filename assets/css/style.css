@@ -147,6 +147,7 @@ p+p{margin-top:12px}
 .press li.has-photo{display:flex;flex-wrap:wrap;gap:16px 20px;align-items:flex-start}
 .press .photo-press{flex:1 1 200px;max-width:100%}
 .press .photo-press img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border:3px solid var(--brown)}
+.press .photo-press.fit img{object-fit:contain;background:var(--peach);padding:10px}
 .press .photo-press figcaption{font:600 14px var(--cond);color:var(--rust);margin-top:4px}
 .press .press-text{flex:2 1 240px}
 
